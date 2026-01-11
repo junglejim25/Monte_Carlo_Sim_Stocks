@@ -1,1 +1,1 @@
-# Monte_Carlo_Sim_Stocks
+This project simulates stock price paths using geometric Brownian motion. You load historical prices from a CSV file, compute drift and volatility, then generate future paths. Each path uses a color from a fixed ROYGBIV palette. The program plots the paths and reports summary statistics for the final prices. It runs on local data and needs no paid APIs.
